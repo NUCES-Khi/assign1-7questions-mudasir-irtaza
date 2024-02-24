@@ -2,7 +2,7 @@
 # Assignment 1
 |Std ID|Name|
 |------|-|
-|K211234|Amjad Amjad|
+|K21134|Amjad Amjad|
 |K214321|Sajjid Sajjid|
 
 ## Q1
