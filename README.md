@@ -3,7 +3,7 @@
 |Std ID|Name|
 |------|-|
 |k228732|Mudasir|
-|K228732|Irtaza|
+|K228731|Irtaza|
 
 ## Q1
 Objections Still Relevant: 
