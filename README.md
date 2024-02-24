@@ -2,8 +2,8 @@
 # Assignment 1
 |Std ID|Name|
 |------|-|
-|K21134|Amjad Amjad|
-|K214321|Sajjid Sajjid|
+|k228732|Mudasir|
+|K228732|Irtaza|
 
 ## Q1
 Objections Still Relevant: 
@@ -39,9 +39,70 @@ It is quite difficult for a computer to competent legal advice in a specialized 
 Now a days we have many model (Tool) that can use for this purpose not sure about any model but as know some of tool like creating song by using voice of particular person so it is also can be possible to translate spoken English into spoken Urdu.
 
 ## Q3
-Wruuuuute your answer to question 3 here ....
+Domain : Agent Cricket Batsman(ACB)
+
+Accessibility: 
+The Cricket ground will be accessible to batsman including pitch, field, position of fielders and boundary lines
+Deterministic:
+	The environment will be deterministic because of cricket rules that are defined and also position of fielders are fixed .
+Episodic :
+Since the game of cricket is famous for entertainment so each ball will be episodic . The main goal of ACB would be to score runs and save it’s wicket 
+Dynamic :
+	The environment will be dynamic because of continuous moment of ball and players.
+Agent Architecture :
+	Supervised Learning technique would be good for this agent as a labeled dataset contain result Created by various shots selection in different scenarios ,by this model will learn to copy an expert batsman.
+ 
 ## Q4
-Write your answer to question 4 here ....
+Playing Soccer :
+	Performance :
+		How many goals scored by team, how many goals an individual score, how many goals saved by goal keeper, how many miss chances, result
+	Environment:
+		Football ground, Opposition, Audience, Goal Target, Ball 
+	Actuators:
+		Parts of t body that will be used for playing soccer like legs, feets ects
+	Sensors:
+		Eyes of human , if agent is playing the cameras
+  
+Playing Tennis match :
+	Performance:
+		Points gained by individual, Result
+	Environment:
+		Tennis court, Tennis bat and ball, Opponent 
+	Actuators:
+		Hands for holding racket , Legs for moving in the right direction to hit the ball 
+	Sensors:
+		Eyes 
+  
+Practicing Tennis Against The Wall:
+	Performance:
+		How many correct attempts, Consistency.
+	Environment:
+		Tennis court , Tennis bat and ball, Wall 
+	Actuators:
+		Hands for holding racket , Legs for moving in the right direction to hit the ball 
+	Sensors:
+		Eyes
+  
+Performing a High Jump:
+  Performance:
+	   Height measurement should be cleared, technique, result(Successfully landed)
+ 	Environment:
+		Jumping area
+	Actuators:
+		Legs and arms 
+	Sensors:
+		Eye
+  
+for judging height Bidding on an item at auction:
+	Performance:
+		Value of item, winning  bid, Balance
+	Environment:
+		Sports leagues auction for player, casinos , other bidders 
+	Actuators:
+		Hand, mind 
+	Sensors:
+		Eyes to observe bidding activities 
+		
 ## Q5
 1. True: An agent that senses only partial information about the state cannot be perfectly rational because perfect rationality requires knowing all relevant information about the environment. For example, imagine trying to solve a puzzle with missing pieces. Even if you're really good at puzzles, not having all the pieces makes it impossible to perfectly solve it. 
 4. False: The input to an agent program and the input to the agent function are not the same. Let's consider a security camera system as an example. The input to the agent function would include the live video feed from the camera, allowing it to detect and analyze any activity or anomalies.
